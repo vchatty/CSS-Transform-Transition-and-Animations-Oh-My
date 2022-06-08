@@ -1,3 +1,5 @@
 main {
-
+    position: relative; 
+    transform: rotate(350deg) scale(1);
 }
+
