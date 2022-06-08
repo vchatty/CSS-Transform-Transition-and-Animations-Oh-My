@@ -1,5 +1,5 @@
 main {
     position: relative; 
-    transform: rotate(350deg) scale(1);
+    transform: rotate(350deg) scaleX(1.30) skew(15deg)
 }
 
